@@ -284,3 +284,4 @@ That pipeline works with **Python 3**, PLINK2 (PLINK v2.00a2LM 64-bit Intel (2 J
 
 
 
+
